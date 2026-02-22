@@ -1,0 +1,30 @@
+2026-02-22 14:11:24,039 - ERROR - File Not Found: server.log
+2026-02-22 14:11:24,039 - CRITICAL - Analysis failed: [Errno 2] No such file or directory: 'server.log'
+2026-02-22 14:12:31,911 - INFO - Processed 0 Requests
+2026-02-22 14:12:31,911 - INFO - error_log.txt Generated
+2026-02-22 14:12:31,911 - INFO - security_incidents.txt Generated
+2026-02-22 14:15:38,533 - INFO - Processed 0 Requests
+2026-02-22 14:15:38,534 - INFO - error_log.txt Generated
+2026-02-22 14:15:38,534 - INFO - security_incidents.txt Generated
+2026-02-22 14:15:55,775 - ERROR - Line 2: Could not parse log entry
+2026-02-22 14:15:55,775 - ERROR - Line 4: Could not parse log entry
+2026-02-22 14:15:55,775 - ERROR - Line 7: Could not parse log entry
+2026-02-22 14:15:55,775 - ERROR - Line 9: Could not parse log entry
+2026-02-22 14:15:55,775 - ERROR - Line 11: Could not parse log entry
+2026-02-22 14:15:55,775 - WARNING - Suspicious Tool Detected From 203.0.113.77 Using POST /login
+2026-02-22 14:15:55,775 - WARNING - Suspicious Tool Detected From 203.0.113.77 Using POST /login
+2026-02-22 14:15:55,775 - WARNING - Brute Force Attempt From 203.0.113.77 (3 Failed Attempts)
+2026-02-22 14:15:55,775 - WARNING - Suspicious Tool Detected From 203.0.113.77 Using POST /login
+2026-02-22 14:15:55,775 - WARNING - Brute Force Attempt From 203.0.113.77 (4 Failed Attempts)
+2026-02-22 14:15:55,775 - WARNING - Suspicious Tool Detected From 203.0.113.77 Using POST /login
+2026-02-22 14:15:55,775 - WARNING - Brute Force Attempt From 203.0.113.77 (5 Failed Attempts)
+2026-02-22 14:15:55,775 - WARNING - Suspicious Tool Detected From 203.0.113.77 Using POST /login
+2026-02-22 14:15:55,775 - WARNING - Suspicious Tool Detected From 198.51.100.88 Using GET /
+2026-02-22 14:15:55,775 - WARNING - Suspicious Tool Detected From 198.51.100.88 Using GET /login
+2026-02-22 14:15:55,775 - WARNING - Suspicious Tool Detected From 198.51.100.88 Using POST /login
+2026-02-22 14:15:55,775 - WARNING - Suspicious Tool Detected From 203.0.113.77 Using POST /login
+2026-02-22 14:15:55,775 - ERROR - Line 24: Could not parse log entry
+2026-02-22 14:15:55,776 - WARNING - Suspicious Tool Detected From 192.168.1.103 Using GET /api/data
+2026-02-22 14:15:55,776 - INFO - Processed 20 Requests
+2026-02-22 14:15:55,776 - INFO - error_log.txt Generated
+2026-02-22 14:15:55,776 - INFO - security_incidents.txt Generated
