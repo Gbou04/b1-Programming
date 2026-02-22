@@ -36,8 +36,9 @@ def get_next_id(users):
     return max(u["id"] for u in users) + 1
 
 
-# CREATE 6 ENDPOINTS
-# IMPORTANT: /SEARCH MUST BE BEFORE PARAMETRIC ROUTES LIKE /{id}
+# MAKE 6 ENDPOINTS GET POST GET ID PUT ID DELETE ID 
+
+# IMPORTANT NOTE: MAKE SURE THAT /SEARCH IS  BEFORE THE PARAMETRIC ROUTES LIKE /{id}
 
 @router.post("/", status_code=201)
 def create_user(user: UserCreate):
