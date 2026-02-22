@@ -1,1 +1,14 @@
+#.gitignore remove venv/, .venv/, __pyache__/, FastAPI, .vscode/
 
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+# .DS_Store
+.DS_Store
+
+users.txt
+
+.vscode/
